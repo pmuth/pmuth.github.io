@@ -14,7 +14,7 @@ a {
 }
 
 a.underline {
-  border-bottom: 0.28em solid #0645AD;
+  border-bottom: 0.08em solid #0645AD;
   font-weight: 700;
 }
 
@@ -42,8 +42,8 @@ a:visited {
 .about p {
 	margin: 40px 150px 0 0;
 	font-weight: 400;
-	font-size: 24px;
-    line-height: 36px;
+	font-size: 28px;
+  line-height: 48px;
 
 }
 
@@ -57,22 +57,22 @@ a:visited {
 .projects ul li {
   margin: 16px 0 0 0;
   padding: 0;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .projects ul li.title {
-  margin: 0 0 5px 0;
+  margin: 0 0 24px 0;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 24px;
   letter-spacing: 1px;
   }
 
  
  .caseSubtitle {
  	margin: 36px 150px 0 0;
-	font-weight: 400;
+	font-weight: 500;
 	font-size: 24px;
-    line-height: 36px;
+  line-height: 40px;
  }
 
   .caseBody {
