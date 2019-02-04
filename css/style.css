@@ -18,6 +18,10 @@ a.underline {
   font-weight: 700;
 }
 
+a.backHome {
+  font-size: 14px;
+}
+
 a:hover {
   color: #0645AD;
   font-weight: 700;
@@ -103,6 +107,10 @@ iframe {
   width: 1040px;
 }
 
+.noHeroImage {
+  margin: 96px 0 0 0;
+}
+
 .inlineImage {
   margin: 24px 0 0 0;
   width: 780px;
@@ -130,5 +138,9 @@ iframe {
   margin: 18px 0 0 24px;
   font-size: 20px;
   list-style-position: outside;
+}
+
+.backHome {
+  margin:24px 0 0 0;
 }
 
