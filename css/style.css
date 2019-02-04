@@ -38,7 +38,7 @@ img {
 }
 
 iframe {
-  margin-top: 36px;
+  margin-top: 12px;
 }
 
 @media (min-width: 750px) {
@@ -103,7 +103,7 @@ iframe {
  }
 
 .heroImage {
-  margin: 120px 0 0 0;
+  margin: 48px 0 0 0;
   width: 1040px;
 }
 
@@ -123,7 +123,7 @@ iframe {
 }
 
 .videoEmbed {
-  margin: 48px 0 48px 0;
+  margin: 24px 0 48px 0;
 }
 
 .finalParagraph {
