@@ -1,5 +1,4 @@
 body {
-/*  font-family: 'Lato', sans-serif;*/
   font-size: 16px;
   font-weight: 300;
   color: #222;
@@ -95,17 +94,16 @@ iframe {
   line-height: 40px;
 }
 
-.caseBody {
- 	margin: 16px 0px 0 0;
-	font-weight: 400;
-  font-size: 18px;
-  line-height: 30px;
- }
-
- .caseHeadline {
+.subTitle {
   margin: 32px 0px 0 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.caseBody {
+  margin: 16px 0px 0 0;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 30px;
  }
 
