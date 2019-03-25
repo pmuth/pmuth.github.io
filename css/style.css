@@ -98,8 +98,15 @@ iframe {
 .caseBody {
  	margin: 16px 0px 0 0;
 	font-weight: 400;
-  font-size: 20px;
-  line-height: 40px;
+  font-size: 18px;
+  line-height: 30px;
+ }
+
+ .caseHeadline {
+  margin: 32px 0px 0 0;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
  }
 
 .role {
@@ -147,7 +154,7 @@ iframe {
 
 .bodyList ul li {
   margin: 18px 0 0 24px;
-  font-size: 20px;
+  font-size: 18px;
   list-style-position: outside;
 }
 
