@@ -100,6 +100,12 @@ iframe {
   font-weight: 600;
 }
 
+.subSubTitle {
+  margin: 16px 0 0 0;
+  font-size: 18px;
+  font-style: italic;
+}
+
 .caseBody {
   margin: 16px 0px 0 0;
   font-weight: 400;
@@ -114,6 +120,11 @@ iframe {
 }
 
 .heroImage {
+  margin: 48px 0 0 0;
+  width: 1040px;
+}
+
+.bodyImage {
   margin: 48px 0 0 0;
   width: 1040px;
 }
@@ -133,13 +144,17 @@ iframe {
 }
 
 .caption {
-  margin: 12px 0 0 0;
-  font-size: 16px;
+  margin: 12px 0 24px 0;
+  font-size: 14px;
   font-style: italic;
 }
 
 .videoEmbed {
   margin: 24px 0 48px 0;
+}
+
+.sectionBreak {
+margin-bottom: 36px;
 }
 
 .finalParagraph {
