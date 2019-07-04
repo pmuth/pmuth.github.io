@@ -1,0 +1,177 @@
+body {
+  font-size: 16px;
+  font-weight: 300;
+  color: #222;
+  background-color: #fff;
+}
+
+a {
+  padding: 0;
+  color: #0645AD;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a.underline {
+  border-bottom: 0.08em solid #0645AD;
+  font-weight: 700;
+}
+
+a.backHome {
+  font-size: 14px;
+}
+
+a:hover {
+  color: #0645AD;
+  font-weight: 700;
+  opacity: .5;
+}
+
+a:visited {
+  color: #0645AD;
+  font-weight: 700;
+}
+
+img {
+  max-width: 100%;
+}
+
+iframe {
+  margin-top: 12px;
+}
+
+@media (min-width: 750px) {
+
+.headline {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.2;
+  margin: 120px 0 0 0;
+}
+
+.about p {
+  margin: 40px 150px 0px 0px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 48px;
+
+}
+
+.projectHeadline {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.2;
+  margin: 40px 0 36px 0;
+ }
+
+
+.projects ul {
+  margin: 36px 0 0 0;
+  padding: 0;
+  list-style: none;
+  font-weight: 400;
+}
+
+.projects ul li {
+  margin: 16px 0 0 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+.projects ul li.title {
+  margin: 0 0 24px 0;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 1px;
+  }
+
+ 
+.caseSubtitle {
+  margin: 36px 100px 24px 0px;
+  font-weight: 500;
+  font-size: 24px;
+  font-style: italic;
+  line-height: 40px;
+}
+
+.subTitle {
+  margin: 32px 0px 0 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.subSubTitle {
+  margin: 16px 0 0 0;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.caseBody {
+  margin: 16px 0px 0 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+ }
+
+.role {
+  margin: 16px 0px 0 0;
+  line-height: 28px;
+  width: 1040px;
+}
+
+.heroImage {
+  margin: 48px 0 0 0;
+  width: 1040px;
+}
+
+.bodyImage {
+  margin: 48px 0 0 0;
+  width: 1040px;
+}
+
+.noHeroImage {
+  margin: 96px 0 0 0;
+}
+
+.inlineImage {
+  margin: 24px 0 0 0;
+  width: 780px;
+}
+
+.inlineImageLarge {
+  margin: 48px 0 48px 0;
+  width: 1040px;
+}
+
+.caption {
+  margin: 12px 0 24px 0;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.videoEmbed {
+  margin: 24px 0 48px 0;
+}
+
+.sectionBreak {
+margin-bottom: 36px;
+}
+
+.finalParagraph {
+  margin-bottom: 96px;
+}
+
+.final ul li {
+  margin-bottom: 96px;
+}
+
+.bodyList ul li {
+  margin: 18px 0 0 24px;
+  font-size: 18px;
+  list-style-position: outside;
+}
+
+.backHome {
+  margin:24px 0 0 0;
+}
+
