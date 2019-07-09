@@ -28,7 +28,8 @@
 		<div class="row">
 			<div class="six columns offset-by-two">
 				<div class="hero-parent">
-					<div class="hero-header">TargetStyle & Vogue NYFW Camera App
+					<div class="hero-header">
+						<h1>TargetStyle & Vogue NYFW Camera App</h1>
 					</div>
 				</div>
 			
@@ -52,7 +53,9 @@
 <section class="role">
 	<div class="container">
 	<div class="row">
-		<div class="eight columns offset-by-two section-header">Project Role</div>
+		<div class="eight columns offset-by-two">
+			<h2>Project Role</h2>
+		</div>
 	</div>
 	<div class="row">
 		<div class="eight columns offset-by-two">
@@ -71,14 +74,16 @@
 	<div class="container">
 
 		<div class="row">
-			<div class="eight columns offset-by-two section-header">Problem</div>
+			<div class="eight columns offset-by-two">
+				<h2>Problem</h2>
+			</div>
 		</div>
 
 		<div class="row">
 			<div class="eight columns offset-by-two">
 					<p><a href="https://mothernewyork.com/">Mother New York</a> approached <a href="https://letsbossa.com">Bossa NYC</a> about creating <b>a series of photo booths that would capture guests as they interacted with three installations scattered throughout the event</b>. They wanted guests to have instant access to their photos and videos, so that they could share them on social media as quickly as possible. <b>The goal was to create an experience that was as easy as taking pictures with your own camera</b>.
 					</p>
-					<p class="end">We needed to develop a system that allowed guests to: <b>(1) quickly register their contact information before they entered the party; and (2) effortlessly provide them with every picture or video that was taken of them</b>. Additionally, Mother New York had specific asks for each of the three installations, so the system had to be robust enough to handle both photos and video, as well as the ability to trigger cameras remotely.
+					<p>We needed to develop a system that allowed guests to: <b>(1) quickly register their contact information before they entered the party; and (2) effortlessly provide them with every picture or video that was taken of them</b>. Additionally, Mother New York had specific asks for each of the three installations, so the system had to be robust enough to handle both photos and video, as well as the ability to trigger cameras remotely.
 					</p>
 			
 			</div>
@@ -111,7 +116,7 @@
 
 		<div class="row end-section">
 			<div class="eight columns offset-by-two">
-				<p class="end">While building the experience, we had to handle the needs of two distinct groups of users; the <b>photographers</b>, who needed a system they could easily learn in an hour of on-site training and the <b>party guests</b>, who needed a quick and simple registration process and an almost frictionless way of identifying themselves to photographers.
+				<p>While building the experience, we had to handle the needs of two distinct groups of users; the <b>photographers</b>, who needed a system they could easily learn in an hour of on-site training and the <b>party guests</b>, who needed a quick and simple registration process and an almost frictionless way of identifying themselves to photographers.
 				</p>
 			</div>
 
@@ -123,7 +128,10 @@
 	<div class="container">
 
 		<div class="row">
-			<div class="eight columns offset-by-two section-header">Design Process</div>
+			<div class="eight columns offset-by-two">
+				<h2>Design Process</h2>
+			</div>
+			
 			<div class="eight columns offset-by-two">
 				<p>Immediately, our team realized that we had two questions that needed to be solved;</p>
 				
@@ -131,7 +139,7 @@
 				<p>After brainstorming some ideas utilizing a DSLR camera and a Raspberry Pi, we settled on <b>creating an iOS app</b>. An iPhone was a great solution because it incorporates a high quality camera with an always on cellular connection that facilitates uploading photos.</p>
 				
 				<p><b>2. How would guests access these pictures?</b></p>
-				<p class="end">We wanted to encourage guests to take multiple photos, but knew that entering an e-mail address or PIN every time would quickly get old. After researching a number of options, <b>we decided to have guests identify themselves by scanning a QR code</b>. When they entered the party, they would be given a bracelet with a unique QR code and register their e-mail address with a brand ambassador. Every time they took a photo, a photographer would scan their bracelet with the app and the photo would be immediately uploaded to a personalized online album that was accessible through a mobile web site. </p>
+				<p>We wanted to encourage guests to take multiple photos, but knew that entering an e-mail address or PIN every time would quickly get old. After researching a number of options, <b>we decided to have guests identify themselves by scanning a QR code</b>. When they entered the party, they would be given a bracelet with a unique QR code and register their e-mail address with a brand ambassador. Every time they took a photo, a photographer would scan their bracelet with the app and the photo would be immediately uploaded to a personalized online album that was accessible through a mobile web site. </p>
 			</div>
 		</div>
 		<div class ="row img-section">
@@ -144,7 +152,7 @@
 				<div class="eight columns offset-by-two">
 					<p>With our technology stack all set, I began exploring user flows. Keeping in mind both the needs of the guests and the photographer, I considered the steps that were necessary for a complete photo session: <b>scanning a guest’s bracelet; taking a photo/triggering a remote camera; and uploading photos</b>.</p>
 
-					<p class="end">A seemingly simple set of steps grew increasingly complex once they were applied to the realities of the event. For each of the three installations, I determined the proper order of events, creating different flows that encompassed the unique demands of each installation (options for multiple photos, scenarios where separate people handled bracelet scanning and photography, remote triggering), but also the needs of our guests (being able to scan their bracelet before or after taking a picture, adding multiple guests).</p>
+					<p>A seemingly simple set of steps grew increasingly complex once they were applied to the realities of the event. For each of the three installations, I determined the proper order of events, creating different flows that encompassed the unique demands of each installation (options for multiple photos, scenarios where separate people handled bracelet scanning and photography, remote triggering), but also the needs of our guests (being able to scan their bracelet before or after taking a picture, adding multiple guests).</p>
 				</div>
 		</div>
 
@@ -159,26 +167,26 @@
 				<div class="eight columns offset-by-two">
 					<p>It quickly became apparent that a rigid user flow wasn’t going to be successful. Without the ability to simulate a 250 person party, I determined what permutations of these steps would be most likely to occur.</p>
 
-					<p class="end"><b>I designed a tabbed interface that let photographers switch back and forth between scanning and photography as often as they wanted before uploading the photos</b>. This created a fluid experience that matched a party’s atmosphere, allowing for multiple pictures to be taken and for additional guests to be added as they jumped into the frame. </p>
+					<p><b>I designed a tabbed interface that let photographers switch back and forth between scanning and photography as often as they wanted before uploading the photos</b>. This created a fluid experience that matched a party’s atmosphere, allowing for multiple pictures to be taken and for additional guests to be added as they jumped into the frame.</p>
 				</div>
 		</div>
 
 
 		<div class="row img-section">
 			<div class="one-third column">
-				<div class="small-header">Scanner</div>
+				<div class="small-header center">Scanner</div>
 				<div class="img-small"><img class="small" src="img/target/scanner.svg"><p class="img-caption-no-italics">Photographers use the iPhone’s camera to scan a guest’s QR bracelet, displaying their name to confirm that it was processed.</p>
 				</div>
 				
 			</div>
 			<div class="one-third column">
-				<div class="small-header">Camera</div>
+				<div class="small-header center">Camera</div>
 				<div class="img-small"><img class="small" src="img/target/camera.svg"><p class="img-caption-no-italics">With a simple point and click interface, photographers can snap as many shots as a guest wants.</p>
 				</div>
 				
 			</div>
 			<div class="one-third column">
-				<div class="small-header">Upload</div>
+				<div class="small-header center">Upload</div>
 				<div class="img-small"><img class="small" src="img/target/upload.svg">
 				<p class="img-caption-no-italics">Photographers can keep track of how many photos they’ve taken and guests they’ve scanned. When the session is finished, they upload the photos which are synced to each guest’s photo album.</p>
 				</div>
@@ -187,7 +195,7 @@
 
 		<div class="row end-section">
 				<div class="eight columns offset-by-two">
-					<p class="end">Once the wireframes were completed, our creative technologist implemented the design into an early build and after some user testing we were confident that this was the right solution.</p>
+					<p>Once the wireframes were completed, our creative technologist implemented the design into an early build and after some user testing we were confident that this was the right solution.</p>
 				</div>
 		</div>
 	</div>
@@ -196,7 +204,9 @@
 	<div class="container">
 
 		<div class="row">
-			<div class="eight columns offset-by-two section-header">Results</div>
+			<div class="eight columns offset-by-two">
+				<h2>Results</h2>
+			</div>
 		</div>
 
 		<div class="row end-section">
@@ -221,8 +231,6 @@
 		</div>
 
 </section>
-
-
 
 </body>
 </html>
