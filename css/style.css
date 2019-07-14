@@ -1,6 +1,6 @@
 body {
 
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	color: #212529;
@@ -33,22 +33,64 @@ a:visited {
   color: #0645AD;
 }
 
+.index {
+	margin-bottom: 24px;
+}
+
+.index a {
+	color: #000;
+	font-weight: 400;
+	border-bottom: 0.1em solid #000;
+	text-decoration: none;
+
+}
+
+.index a:visited {
+	color: #000;
+	font-weight: 400;
+	border-bottom: 0.1em solid #000;
+}
+
+.index a:hover {
+  color: #000;
+  border-bottom: none;
+  opacity: 1.0;
+}
+
 b {
 	font-weight: bold;
 }
 
 h1 {
 	font-size: 48px;
-	font-weight: bold;
+	font-weight: 500;
 	color: white;
 	margin-bottom: 0px;
 	letter-spacing: 0rem;
 }
 
+h1.index {
+	margin-top: 128px;
+	margin-bottom: 96px;
+	font-size: 40px;
+	line-height: 44px;
+	font-weight: 300;
+	color: black;
+}
+
+
 h2 {
 	margin-bottom: 24px;
 	font-size: 24px;
-	font-weight: 600;
+	font-weight: 500;
+	line-height: 36px;
+	letter-spacing: 0rem;
+}
+
+h2.index {
+	margin-bottom: 48px;
+	font-size: 28px;
+	font-weight: 300;
 	line-height: 36px;
 	letter-spacing: 0rem;
 }
@@ -56,8 +98,13 @@ h2 {
 h3 {
 	font-size: 18px;
 	margin-bottom: 24px;
-	font-weight: 600;
+	font-weight: 500;
 	letter-spacing: 0rem;
+}
+
+h3.phase {
+	margin-top: 24px;
+	margin-bottom: 48px;
 }
 
 img {
@@ -87,6 +134,11 @@ p.end {
 
 p.list {
 	text-align: right;
+}
+
+p.index {
+	margin-top: 4px;
+	margin-bottom: 28px;
 }
 
 .target {
@@ -135,6 +187,10 @@ p.list {
 	margin-bottom: 96px;
 }
 
+.end-sub-section {
+	margin-bottom: 40px;
+}
+
 .header {
 	height: 80px;
 }
@@ -172,6 +228,10 @@ p.list {
 	margin-bottom: 24px;
 	font-style: italic;
 	text-align: center;
+}
+
+.img-pfizer {
+	margin-top:24px;
 }
 
 .img-section {
@@ -228,6 +288,13 @@ p.list {
 	margin-bottom: 96px;
 }
 
+.registration {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
 .small-header {
 	font-size: 18px;
 	margin-bottom: 24px;
@@ -257,11 +324,20 @@ p.list {
 	list-style-type: circle;
 }
 
+.x {
+	line-height: 1.0;
+	margin-bottom: 8px;
+}
+
+.y {
+	text-align: right;
+}
 
 
 .project-role li {
 	list-style-position: outside;
 	margin-left: 20px;
+	margin-bottom: 24px;
 }
 
 
