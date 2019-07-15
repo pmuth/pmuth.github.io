@@ -78,6 +78,28 @@ a.content:hover {
   opacity: 1.0;
 }
 
+a.footer {
+	margin-top: 72px;
+	margin-bottom: 24px;
+	color: #000;
+	font-weight: 300;
+	border-bottom: 0.1em solid #000;
+	text-decoration: none;
+}
+
+a.footer:visited {
+	color: #000;
+	font-weight: 300;
+	border-bottom: 0.1em solid #000;
+}
+
+a.footer:hover {
+	color: #000;
+	border-bottom: none;
+	opacity: 1.0;
+}
+
+
 b {
 	font-weight: 500;
 }
@@ -165,7 +187,6 @@ p.index {
 
 p.footer {
 	font-size: 14px;
-	margin-top: 72px;
 	margin-bottom: 72px;
 	text-align: center;
 }
@@ -240,11 +261,17 @@ p.footer {
 	margin-bottom: 40px;
 }
 
-.footer {
-	margin-left: auto;
-	margin-right: auto;
+.footer-links {
+	margin-top: 72px;
+	margin-bottom: 24px;
+	font-size: 14px;
+	text-align: center;
 }
 
+.footer-child {
+	display: table-cell;
+	vertical-align: middle;
+}
 
 .hero-parent {
 	height: 360px;
@@ -316,6 +343,8 @@ p.footer {
 	float: right;
 
 }
+
+
 
 .next-page-header {
 	display: table-cell;
