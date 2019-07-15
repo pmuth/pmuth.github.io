@@ -45,6 +45,27 @@ a:visited {
 
 }
 
+a.content {
+	color: #000;
+	font-weight: 300;
+	border-bottom: 0.1em solid #000;
+	text-decoration: none;
+
+}
+
+a.content:visited {
+	color: #000;
+	font-weight: 300;
+	border-bottom: 0.1em solid #000;
+
+}
+
+a.content:hover {
+  color: #000;
+  border-bottom: none;
+  opacity: 1.0;
+}
+
 .index a:visited {
 	color: #000;
 	font-weight: 400;
@@ -58,7 +79,7 @@ a:visited {
 }
 
 b {
-	font-weight: bold;
+	font-weight: 500;
 }
 
 h1 {
