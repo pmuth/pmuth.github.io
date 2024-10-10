@@ -31,7 +31,7 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 1040px;
+  max-width: 1080 px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
@@ -133,7 +133,7 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
   font-weight: 300; }
 h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
 h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; }

@@ -1,12 +1,13 @@
 body {
 
-	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	font-size: 18px;
+	font-family: "Space Mono", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 20px;
 	font-weight: 300;
 	color: #212529;
 	background-color: #fff;
 	margin-bottom: 24px;
 }
+
 
 a {
   padding: 0;
@@ -101,53 +102,57 @@ a.footer:hover {
 
 
 b {
-	font-weight: 500;
+	font-weight: 700;
 }
 
 h1 {
-	font-size: 48px;
-	font-weight: 500;
+	font-size: 64px;
+	font-weight: 900;
+	font-family: "Work Sans";
 	color: white;
-	margin-bottom: 0px;
+/*	margin-bottom: 24px;*/
 	letter-spacing: 0rem;
-	font-weight: 300;
 }
 
 h1.index {
 	margin-top: 128px;
-	margin-bottom: 96px;
-	font-size: 40px;
-	line-height: 44px;
-	font-weight: 300;
+	margin-bottom: 128px;
+	font-size: 96px;
+	font-family: "Work Sans";
+	line-height: 96px;
+	font-weight: 700;
 	color: black;
 }
 
 
 h2 {
-	margin-bottom: 24px;
-	font-size: 24px;
-	font-weight: 500;
+	margin-bottom: 36px;
+	font-family: "Work Sans";
+	font-size: 36px;
+	font-weight: 700;
 	line-height: 36px;
 	letter-spacing: 0rem;
 }
 
 h2.index {
-	margin-bottom: 48px;
+	margin-bottom: 16px;
 	font-size: 28px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 36px;
 	letter-spacing: 0rem;
 }
 
 h3 {
-	font-size: 18px;
+	font-family: "Work Sans";
+	font-size: 24px;
 	margin-bottom: 24px;
 	font-weight: 500;
 	letter-spacing: 0rem;
 }
 
-h3.phase {
-	margin-top: 24px;
+
+h2.phase {
+	margin-top: 36px;
 	margin-bottom: 48px;
 }
 
@@ -192,19 +197,37 @@ p.footer {
 }
 
 .target {
-	background-color: #F2534B;
+	background-color: #CC0000;
+}
+
+
+.pfizer {
+	background-color: #282C74
 }
 
 .brilinta {
-	background-color: #794080;
+	background-color: #4D0057
 }
 
-.pfizer {
-	background-color: #00ACEC;
+
+h2.pfizer, h3.pfizer {
+	color: #588BC5;
+	background-color: #fff;
 }
+
+h2.brilinta, h3.brilinta {
+	color: #4D0057;
+	background-color: #fff;
+}
+
+h2.target, h3.target {
+	color: #CC0000;
+	background-color: #fff;
+}
+
 
 .coke-zero {
-	background-color: #4A4A4A;
+	background-color: #000;
 }
 
 .mcdonalds {
