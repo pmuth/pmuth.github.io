@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="314px" viewBox="0 0 1000 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Roles Matrix Copy 2@2x</title>
+    <g id="Roles-Matrix-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="314"></rect>
+        <rect id="Rectangle-Copy-5" fill="#D8D8D8" transform="translate(499.4157, 45.3837) scale(1, -1) translate(-499.4157, -45.3837)" x="0" y="45.1889365" width="998.831321" height="1"></rect>
+        <rect id="Rectangle-Copy-9" fill="#D8D8D8" transform="translate(499.4157, 161.4725) scale(1, -1) translate(-499.4157, -161.4725)" x="0" y="161.277756" width="998.831321" height="1"></rect>
+        <rect id="Rectangle-Copy-7" fill="#D8D8D8" transform="translate(499.4157, 98.3638) scale(1, -1) translate(-499.4157, -98.3638)" x="0" y="98.169069" width="998.831321" height="1"></rect>
+        <rect id="Rectangle-Copy-10" fill="#D8D8D8" transform="translate(499.4157, 224.5812) scale(1, -1) translate(-499.4157, -224.5812)" x="0" y="224.386443" width="998.831321" height="1"></rect>
+        <rect id="Rectangle-Copy-12" fill="#D8D8D8" transform="translate(499.4157, 287.6899) scale(1, -1) translate(-499.4157, -287.6899)" x="0" y="287.495131" width="998.831321" height="1"></rect>
+        <text id="User-Roles-Section" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="269.173744">User Roles </tspan>
+            <tspan x="14.0241527" y="279.302298">Section</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="242.683677">View</tspan>
+        </text>
+        <rect id="Rectangle-Copy-11" fill="#D8D8D8" transform="translate(499.4157, 256.1356) scale(1, -1) translate(-499.4157, -256.1356)" x="0" y="255.940787" width="998.831321" height="1"></rect>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="242.683677">View</tspan>
+        </text>
+        <text id="View-Copy-14" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="242.683677">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="242.683677">Hidden</tspan>
+        </text>
+        <text id="Basic-Info-Edit-Butt" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="237.6194">Basic Info Edit </tspan>
+            <tspan x="14.0241527" y="247.747955">Button</tspan>
+        </text>
+        <text id="View-Copy-5" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="242.683677">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="242.683677">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="242.683677">View</tspan>
+        </text>
+        <text id="Change-Roles-Button" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="300.728087">Change Roles </tspan>
+            <tspan x="14.0241527" y="310.856642">Button </tspan>
+        </text>
+        <text id="View-Copy-7" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="305.792365">View</tspan>
+        </text>
+        <text id="View-Copy-8" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="274.238021">View</tspan>
+        </text>
+        <text id="View-Copy-20" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="274.238021">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="274.238021">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="194.390339" y="305.792365">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="305.792365">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="274.238021">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="305.792365">View</tspan>
+        </text>
+        <text id="ActiveCore-Admin" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="398.130113" y="9">ActiveCore Admin</tspan>
+        </text>
+        <text id="View-Copy-25" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="36.9961044">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="84.9119595">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View-Copy-34" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="58.4218933">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="116.466303">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="398.130113" y="211.129334">View</tspan>
+        </text>
+        <rect id="Rectangle-Copy-6" fill="#D8D8D8" transform="translate(499.4157, 66.8095) scale(1, -1) translate(-499.4157, -66.8095)" x="0" y="66.6147254" width="998.831321" height="1"></rect>
+        <rect id="Rectangle-Copy-11" fill="#D8D8D8" transform="translate(499.4157, 193.0269) scale(1, -1) translate(-499.4157, -193.0269)" x="0" y="192.8321" width="998.831321" height="1"></rect>
+        <rect id="Rectangle-Copy-8" fill="#D8D8D8" transform="translate(499.4157, 129.9182) scale(1, -1) translate(-499.4157, -129.9182)" x="0" y="129.723413" width="998.831321" height="1"></rect>
+        <text id="Primary-Manager" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="90.377873" y="9">Primary Manager</tspan>
+        </text>
+        <text id="BVE-Admin" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="295.675886" y="9">BVE Admin</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="274.238021">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="305.792365">View</tspan>
+        </text>
+        <text id="Ethernet-Admin" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="500.58434" y="9">Ethernet Admin</tspan>
+        </text>
+        <text id="View-Copy-25" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="36.9961044">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="84.9119595">View</tspan>
+        </text>
+        <text id="Hidden-Copy-2" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View-Copy-34" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="58.4218933">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="116.466303">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="View-Copy-33" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="500.58434" y="211.129334">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="274.238021">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="305.792365">View</tspan>
+        </text>
+        <text id="Bs.-Internet-Admin" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="705.492793" y="9">Bs. Internet Admin</tspan>
+        </text>
+        <text id="View-Copy-25" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="36.9961044">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="84.9119595">View</tspan>
+        </text>
+        <text id="Hidden-Copy-2" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="58.4218933">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="116.466303">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="705.492793" y="211.129334">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="274.238021">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="305.792365">Hidden</tspan>
+        </text>
+        <text id="{Product}-User" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="807.94702" y="9">{Product} User</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="36.9961044">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="84.9119595">Hidden</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="58.4218933">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="116.466303">Hidden</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="807.94702" y="211.129334">View</tspan>
+        </text>
+        <text id="Billing-Manager" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="193.22166" y="9">Billing Manager</tspan>
+        </text>
+        <text id="Profile" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="0" y="58.4218933">Profile</tspan>
+        </text>
+        <text id="Deactivate-User-Butt" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="111.402026">Deactivate User </tspan>
+            <tspan x="14.0241527" y="121.53058">Button</tspan>
+        </text>
+        <text id="Delete-User-Button" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="142.956369">Delete User </tspan>
+            <tspan x="14.0241527" y="153.084924">Button</tspan>
+        </text>
+        <text id="Profile-Header" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="0" y="36.9961044">Profile Header</tspan>
+        </text>
+        <text id="Reset-Password-Butto" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="79.8476821">Reset Password </tspan>
+            <tspan x="14.0241527" y="89.9762369">Button</tspan>
+        </text>
+        <text id="Transfer-Primary-But" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="174.510713">Transfer Primary </tspan>
+            <tspan x="14.0241527" y="184.639268">Button</tspan>
+        </text>
+        <text id="Basic-Info-Section" font-family="Lato-Bold, Lato" font-size="7.01207635" font-weight="bold" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="14.0241527" y="206.065056">Basic Info </tspan>
+            <tspan x="14.0241527" y="216.193611">Section</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="36.9961044">View</tspan>
+        </text>
+        <text id="View-Copy-13" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="36.9961044">View</tspan>
+        </text>
+        <text id="View-Copy-24" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="36.9961044">View</tspan>
+        </text>
+        <text id="View-Copy-2" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="84.9119595">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="84.9119595">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="84.9119595">View</tspan>
+        </text>
+        <text id="View-Copy-4" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="148.020647">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View-Copy" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="58.4218933">View</tspan>
+        </text>
+        <text id="View-Copy-18" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="58.4218933">View</tspan>
+        </text>
+        <text id="View-Copy-28" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="58.4218933">View</tspan>
+        </text>
+        <text id="View-Copy-3" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="116.466303">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="116.466303">View</tspan>
+        </text>
+        <text id="View-Copy-29" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="116.466303">View</tspan>
+        </text>
+        <text id="View-Copy-5" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="179.57499">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="View-Copy-6" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="91.1569926" y="211.129334">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="193.22166" y="211.129334">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="295.675886" y="211.129334">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="242.683677">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="274.238021">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="305.792365">View</tspan>
+        </text>
+        <text id="PRI-Trunks-Admin-Copy" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="603.038566" y="9">PRI Trunks Admin</tspan>
+        </text>
+        <text id="View-Copy-30" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="36.9961044">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="84.9119595">View</tspan>
+        </text>
+        <text id="Hidden-Copy-27" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View-Copy-46" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="58.4218933">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="116.466303">View</tspan>
+        </text>
+        <text id="Hidden-Copy-25" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="179.57499">Hidden</tspan>
+        </text>
+        <text id="View-Copy-45" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="603.038566" y="211.129334">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="242.683677">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="274.238021">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="305.792365">Hidden</tspan>
+        </text>
+        <text id="Self" font-family="Montserrat-Bold, Montserrat" font-size="9.34943514" font-weight="bold" line-spacing="14.0241527" fill="#000000">
+            <tspan x="910.401247" y="9">Self</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="36.9961044">View</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="84.9119595">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="148.020647">Hidden</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="58.4218933">View</tspan>
+        </text>
+        <text id="Hidden" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="116.466303">Hidden</tspan>
+        </text>
+        <text id="N/A" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="179.57499">N/A</tspan>
+        </text>
+        <text id="View" font-family="Lato-Regular, Lato" font-size="7.01207635" font-weight="normal" line-spacing="10.1285547" letter-spacing="0.389559797" fill="#414141">
+            <tspan x="910.401247" y="211.129334">View</tspan>
+        </text>
+    </g>
+</svg>
