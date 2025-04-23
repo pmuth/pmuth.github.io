@@ -116,10 +116,10 @@ h1 {
 
 h1.index {
 	margin-top: 128px;
-	margin-bottom: 128px;
-	font-size: 96px;
+	margin-bottom: 160px;
+	font-size: 72px;
 	font-family: "Work Sans";
-	line-height: 96px;
+	line-height: 72px;
 	font-weight: 700;
 	color: black;
 }
@@ -135,8 +135,8 @@ h2 {
 }
 
 h2.index {
-	margin-bottom: 16px;
-	font-size: 28px;
+	margin-bottom: 48px;
+	font-size: 36px;
 	font-weight: 500;
 	line-height: 36px;
 	letter-spacing: 0rem;
@@ -186,8 +186,8 @@ p.list {
 }
 
 p.index {
-	margin-top: 4px;
-	margin-bottom: 28px;
+	margin-top: 8px;
+	margin-bottom: 40px;
 }
 
 p.footer {
