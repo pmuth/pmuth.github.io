@@ -33,11 +33,21 @@ li {
   line-height: 28px;
   font-weight: 400;
   color: #241A04;
-  max-width: 900px;
-  margin-left: 48px;
+  max-width: 720px;
+  margin-left: 24px;
   margin-top: 24px;
 
 }
+
+
+.divider-row-bottom-space {
+  background-color: #241A04;
+  height: 1px;
+  max-width: 1100px;
+  margin: auto auto 120px;
+  display: block;
+}
+
 
 .w-nav-link {
   vertical-align: top;
@@ -230,24 +240,54 @@ li {
   margin-right: auto;
 }
 
+
+.row-third-img {
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 1100px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 96px;
+}
+
 .col-two-img {
   flex: 50%;
 }
 
+.col-three-img {
+  flex: 33.33333%;
+}
+
+.col-twothird-img {
+  flex: 66.66667%;
+}
+
 
 .work-img-full {
-
   margin-top: 96px;
   margin-left: auto;
   margin-right: auto;
   max-width: 1100px;
-
 } 
 
 .work-img-half {
   margin-left: auto;
   margin-right: auto;
   max-width: 534px;
+}
+
+.work-img-third {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 356px;
+}
+
+.work-img-twothird {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 728px;
 }
 
 .work-img-sub-full {
@@ -309,6 +349,34 @@ li {
 
 }
 
+.caption-img-third {
+
+  font-family: "Inter", sans-serif;
+  color: #241A04;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  margin-left: 0px;
+  margin-top: 20px;
+  margin-right: auto;
+  max-width: 356px;
+
+}
+
+.caption-img-twothird {
+
+  font-family: "Inter", sans-serif;
+  color: #241A04;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  margin-left: 0px;
+  margin-top: 20px;
+  margin-right: auto;
+  max-width: 568px;
+
+}
+
 .caption-sub-img {
 
   font-family: "Inter", sans-serif;
@@ -350,7 +418,6 @@ li {
   font-family: Inter, sans-serif;
   font-size: 18px;
   line-height: 30px;
-
 }
 
 
