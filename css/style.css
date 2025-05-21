@@ -517,7 +517,8 @@ p.footer {
 }
 
 .footer-navigation {
-	margin-bottom: 96px;
+	margin-top: 184px;
+	margin-bottom: 120px;
 }
 
 .footer-links {
