@@ -39,6 +39,22 @@ li {
 
 }
 
+h1.index {
+  margin-top: 160px;
+  margin-bottom: 160px;
+  font-size: 72px;
+  font-family: "Inter";
+  line-height: 84px;
+  font-weight: 700;
+  color: black;
+  max-width: 1100px;
+}
+
+p.index {
+  margin-top: 8px;
+  margin-bottom: 40px;
+}
+
 
 .divider-row-bottom-space {
   background-color: #241A04;
@@ -460,6 +476,18 @@ li {
   line-height: 24px;
 }
 
+
+.index {
+  margin-bottom: 24px;
+}
+
+.index a {
+  color: #000;
+  font-weight: 400;
+  border-bottom: 0.1em solid #000;
+  text-decoration: none;
+
+}
 
 a.footer {
   margin-top: 136px;
