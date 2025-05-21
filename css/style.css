@@ -516,6 +516,10 @@ p.footer {
   text-align: center;
 }
 
+.footer-navigation {
+	margin-bottom: 96px;
+}
+
 .footer-links {
   margin-top: 136px;
   margin-bottom: 96px;
