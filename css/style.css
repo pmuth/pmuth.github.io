@@ -193,7 +193,7 @@ p.index {
 .summary-title {
   font-family: "Inter", sans-serif;
   color: #241A04;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
   letter-spacing: 0px;
   line-height: 18px;
@@ -288,6 +288,17 @@ p.index {
   max-width: 1100px;
 } 
 
+
+.work-img-full-short {
+  margin-top: 48px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1100px;
+} 
+
+
+
+
 .work-img-half {
   margin-left: auto;
   margin-right: auto;
@@ -344,6 +355,21 @@ p.index {
   font-size: 16px;
   line-height: 22px;
   margin-bottom: 136px;
+  margin-left: 0;
+  margin-top: 20px;
+  margin-right: auto;
+  max-width: 720px;
+
+}
+
+.caption-img-short {
+
+  font-family: "Inter", sans-serif;
+  color: #241A04;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 64px;
   margin-left: 0;
   margin-top: 20px;
   margin-right: auto;
@@ -411,7 +437,7 @@ p.index {
 
 .work-intro {
 
-	margin-top:32px;
+	margin-top:20px;
 	max-width: 720px;
 	font-family: "Inter";
 	font-size: 16px;
