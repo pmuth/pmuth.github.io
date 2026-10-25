@@ -1,0 +1,340 @@
+Create an interactive in-thread prototype for an **Interviewer Availability** experience.
+
+The user is an employee/interviewer who needs to provide availability for candidate interviews. The experience has two related contexts that should share as much interaction behavior and visual structure as possible:
+
+1. **General availability**
+2. **Specific date-range availability**
+
+The prototype should feel like an enterprise HR/recruiting tool: compact, clear, lightweight, and easy to scan. Use working local state and functional controls.
+
+## Core mental model
+
+General availability is a reusable weekly preference.
+
+Specific date-range availability is a copy of those general preferences applied to actual dates, which can then be edited independently.
+
+The interviewer explicitly authors their availability. Their selected time ranges are authoritative by default.
+
+Outlook free/busy is contextual guidance only. It should never silently remove availability or prevent saving.
+
+---
+
+## General availability
+
+Show Monday through Friday only.
+
+Working hours are limited to **9:00 AM–5:00 PM** in **30-minute increments**.
+
+Each weekday can contain:
+
+- One time range
+- Multiple time ranges
+- No time ranges
+
+Do not require a separate “Unavailable” state. If no ranges are selected, show something like:
+
+**No availability added**
+
+Each weekday should have a compact read state, for example:
+
+**Monday**  
+9:00 AM–12:00 PM · 1:00 PM–5:00 PM  
+Edit
+
+When editing a weekday, expose:
+
+- Start and end time dropdowns
+- Add time
+- Remove time
+- Quick-add buttons:
+  - Morning: 9:00 AM–12:00 PM
+  - Afternoon: 1:00 PM–5:00 PM
+  - Full day: 9:00 AM–5:00 PM
+- Save
+- Cancel
+
+Overlapping or touching time ranges should merge automatically.
+
+Example:
+
+9:00–12:00 + 11:00–2:00 → 9:00–2:00
+
+---
+
+## Applying general availability to other weekdays
+
+Allow the interviewer to copy one weekday’s selected time ranges to other weekdays.
+
+Show the destination weekdays inline rather than in a modal.
+
+Example:
+
+**Apply to**  
+☐ Tuesday  
+☐ Wednesday  
+☐ Thursday  
+☐ Friday
+
+Applying should **replace** the existing availability on selected destination days.
+
+Copied days become independent immediately. Later edits to Monday should not update Tuesday automatically.
+
+---
+
+## Specific date-range availability
+
+Include a second tab or mode for a specific date range.
+
+Use this example date range:
+
+**Oct 16–Nov 1**
+
+Apply the user’s general weekday availability to each matching actual date as the initial state.
+
+Group dates visually by week.
+
+Example:
+
+**Week of Oct 19**
+
+Mon, Oct 19  
+Tue, Oct 20  
+Wed, Oct 21  
+Thu, Oct 22  
+Fri, Oct 23
+
+Then:
+
+**Week of Oct 26**
+
+Mon, Oct 26  
+Tue, Oct 27  
+etc.
+
+The week is only a presentation container. Availability remains date-specific.
+
+Users should edit one date at a time.
+
+The date editor should reuse the same controls as general availability:
+
+- Time ranges
+- Quick add
+- Add time
+- Remove
+- Save
+- Cancel
+
+Changes to a specific date must not update general availability automatically.
+
+---
+
+## Recently edited dates
+
+Track whether a date has diverged from the originally applied general-availability baseline.
+
+If it has, show a lightweight:
+
+**Edited**
+
+badge in the date-range view.
+
+Also show that Edited status inside any date-selection UI where overwriting that date is possible.
+
+Do not use exact timestamps like “edited 4 minutes ago.”
+
+---
+
+## Outlook conflict behavior
+
+This is important.
+
+The interviewer’s selected time range is authoritative by default.
+
+Outlook free/busy is only contextual guidance.
+
+If a selected range overlaps an Outlook busy block:
+
+- Keep the full selected range available
+- Do not silently remove the conflict
+- Do not block saving
+- Do not expose Outlook meeting titles or details
+- Show only the busy time
+
+Surface the conflict **directly beneath the specific time range it overlaps**, visually grouped with that range.
+
+Example:
+
+Time range:
+
+2:00 PM – 5:00 PM
+
+Directly beneath it:
+
+Outlook shows you as busy from **3:00–4:00 PM**.
+
+☐ **Exclude 3:00–4:00 PM from my availability**
+
+Use a checkbox for this per-conflict decision.
+
+If checked:
+
+- Effective availability becomes 2:00–3:00 PM and 4:00–5:00 PM
+- Show a lightweight indication that 3:00–4:00 PM is excluded
+
+If unchecked:
+
+- The entire 2:00–5:00 PM range remains available
+
+If availability is copied to another date:
+
+- Copy only the authored time ranges
+- Do not copy Outlook conflict decisions
+- Evaluate Outlook conflicts independently for each destination date
+
+Use sample Outlook conflicts in the prototype so this behavior can be tested.
+
+For example:
+
+- Oct 20: busy 3:00–4:00 PM
+- Oct 21: busy 10:00–10:30 AM
+- Oct 27: busy 9:30–10:30 AM and 2:00–3:00 PM
+- Oct 30: busy 1:30–2:30 PM
+
+---
+
+## Apply-to interaction for specific dates
+
+Do not hide the common Apply-to options behind a modal.
+
+Show common shortcuts inline inside the active date editor.
+
+Example:
+
+**Apply to**
+
+☐ Remaining Tuesdays  
+☐ Rest of this week
+
+Then provide:
+
+**Choose dates…**
+
+as a secondary progressive-disclosure control.
+
+The shortcuts and manual date selection must be part of the **same selection model**.
+
+### Remaining [weekday]
+
+If editing Tuesday, show:
+
+☐ Remaining Tuesdays
+
+Checking it should select every future Tuesday within the active date range.
+
+### Rest of this week
+
+Checking it should select all remaining weekdays after the current date within that calendar week.
+
+Do not include the current date because it is already the source.
+
+### Choose dates
+
+Clicking **Choose dates…** should expand an inline list grouped by week.
+
+Show **all dates in the active date range**, including dates before and after the source date.
+
+The current source date should remain visible in this list as:
+
+☑ Tue, Oct 20    Current date
+
+Its checkbox should be:
+
+- Checked
+- Disabled
+- Not removable
+
+For all other dates, use normal checkboxes.
+
+Show an **Edited** badge beside dates that have already been modified.
+
+---
+
+## Synchronization between shortcuts and specific-date checkboxes
+
+This behavior is important.
+
+If the user checks:
+
+☐ Remaining Mondays
+
+then the corresponding Monday checkboxes inside **Choose specific dates** should automatically become checked.
+
+If the user checks:
+
+☐ Rest of this week
+
+then all matching dates in that week should automatically become checked.
+
+If both shortcuts are selected, show the union of the selected dates.
+
+Manual date selections should coexist with shortcut selections.
+
+Example:
+
+- User manually selects Thu, Oct 29
+- Then checks Remaining Mondays
+- Then unchecks Remaining Mondays
+
+Thu, Oct 29 should remain selected because it was manually selected.
+
+If a date is selected by two shortcuts, unchecking one shortcut should not deselect it if the other shortcut still selects it.
+
+Show a lightweight count such as:
+
+**4 additional dates selected**
+
+The user should explicitly click **Apply** before any destination availability changes.
+
+Applying should replace existing availability on selected dates.
+
+---
+
+## Read-state behavior
+
+In the collapsed date-range view, show the **effective availability** after any excluded Outlook conflicts.
+
+Example:
+
+If the user selected 2:00–5:00 PM and excluded a 3:00–4:00 PM Outlook conflict, show:
+
+2:00–3:00 PM · 4:00–5:00 PM
+
+If Outlook has a conflict that is still included, show a lightweight Outlook conflict indicator, but do not imply the time is unavailable.
+
+---
+
+## Prototype requirements
+
+Build this as a clickable, interactive prototype directly in the conversation.
+
+Use:
+
+- Working local state
+- Functional tabs
+- Functional edit states
+- Functional time dropdowns
+- Functional quick-add buttons
+- Add/remove time ranges
+- Save/Cancel
+- Outlook conflict checkboxes
+- Apply-to shortcuts
+- Expand/collapse Choose dates
+- Synchronized shortcut and specific-date checkboxes
+- Edited-state tracking
+- Replacement behavior when applying availability
+
+Keep the UI responsive and enterprise-oriented.
+
+Do not create a static image or downloadable HTML file.
+
+The experience should feel compact and lightweight rather than like a full calendar application.
