@@ -1,0 +1,96 @@
+WHAT
+
+Over the past year, my work across LEX and Interview Scheduler gave me opportunities to make meaningful progress against the objectives I set at the beginning of the year: delivering high-quality product work, increasing my strategic influence, expanding my visibility within design, and developing stronger AI-enabled ways of working.
+
+**Delivered high-quality experiences across priority initiatives**
+
+**LEX**
+
+**Talent Portfolio Management (TPM)** — Led the redesign of the TPM experience, converting a long and overwhelming single-page form into a multi-step model that broke the work into focused stages. This reduced cognitive load by allowing users to move through complex tasks without being presented with everything at once. I worked closely with the product team to understand feasibility constraints and determine what could realistically be delivered within a tight timeframe, while also updating the experience to align with current EXDS standards. The redesign was developed and shipped.
+
+**LEX homepage** — Took over the work midway through the design process, introducing new modules focused on success metrics, feedback, and recent activity. I partnered closely with the product manager to define the strategy and execution for the Recent Activity experience, shaping the content and interaction model to better surface relevant work and help users quickly re-engage with ongoing tasks. The updated homepage was developed and shipped.
+
+**Interview Scheduler**
+
+On Interview Scheduler, I worked across three significant features, each requiring me to step into active workstreams quickly and balance experience quality with short delivery timelines.
+
+**In-Person Interview Room Booking** — Designed a new recruiter experience for selecting and confirming rooms for in-person interviews. I explored multiple approaches, ranging from experiences closely aligned with JPMC’s existing room-booking platform to more tailored concepts for Interview Scheduler as requirements evolved. I ultimately advocated for a highly automated happy path because room booking represented new work being added to the recruiter’s responsibilities. The final approach uses existing information about the interview logistics and lead interviewer so that, in the best-case scenario, the recruiter only needs to review and confirm the room details. When additional input is required, the experience limits that effort to selecting a floor and room. The developer handoff has been approved and is ready for implementation pending engineering capacity and prioritization.
+
+**Managing interviewer changes** — Designed the end-to-end experience and interface for adding, replacing, and removing interviewers after an interview had already been confirmed. This was net-new functionality, so I created the experience from scratch while ensuring it integrated naturally into the candidate profile side panel, which was owned by another designer. I worked closely with that designer and the lead developer throughout the process to make sure the experience remained consistent with the surrounding product and achievable within a short turnaround. Because of the delivery timeline, I deliberately prioritized existing design-system assets and minimized the need for custom components. I created and maintained the approved developer handoff as requirements continued to evolve during development.
+
+**Interviewer availability** — Created concepts for how interviewers could review and enter both general and date-range-specific availability, helping establish initial interaction patterns and gain alignment from product stakeholders and the design system team. I then owned the final recruiter-facing availability experience, designing the interface around rapid comprehension of an interviewer’s availability across the full date range, week level, and individual day, with editing treated as a secondary, exception-based task.
+
+I prioritized visibility into both available hours and potential interview slots so recruiters could quickly assess scheduling capacity and identify where intervention might be needed. I also partnered closely with the designer responsible for the interviewer experience to keep the two sides consistent, aligning patterns, terminology, interaction logic, and shared states so the experience felt like one connected system rather than two separate tools. Throughout the work, I designed within tight delivery constraints and existing design-system components, selectively introducing shortcuts while avoiding unnecessary complexity or custom UI.
+
+**Contributed to research and future-state strategy**
+
+On LEX, I partnered with a researcher to define the questions and areas of inquiry needed to develop meaningful user personas, focusing on differences in behaviors, needs, pain points, responsibilities, and workflows across Learn Professionals. I participated in user interviews, actively asking follow-up questions to better understand their current workflows, responsibilities, pain points, and differences in how they approached their work. I then used the resulting persona insights to help ground design decisions across both current-state improvements and future-state LEX concepts, giving the team a clearer view of who we were designing for and how different user needs should influence the experience.
+
+I also worked on the LEX future-state initiative as part of the design team responsible for defining and concepting an end-to-end AI-supported experience for creating and refining learning content, with a particular focus on the user journey, onboarding and intake models, and how an AI assistant would support users throughout the experience.
+
+- Partnered with another designer to define the end-to-end future-state experience, mapping the sequence of activities and determining what users needed to provide, decide, and accomplish at each stage.
+- Developed multiple concepts for onboarding and intake, exploring open-ended, guided, and flexible interaction models that allowed users to begin with the areas they were ready to address and return to incomplete sections later.
+- Designed concepts for how an AI assistant could support the build phase, including extracting information, recommending content, evaluating user input and suggesting improvements, and generating content. This helped clarify how the assistant’s behavior needed to change depending on the task and context.
+- Used AI tools extensively throughout concepting and prototyping to accelerate strategic exploration, compare alternative interaction models, and make ideas tangible more quickly.
+- Contributed concepts that were used in product stakeholder presentations, design leadership reviews, and broader design-team working sessions to generate feedback, stress-test the future-state vision, and inform the direction of the broader team.
+
+**Expanded my visibility and contribution within design**
+
+I maintained an active presence in weekly EXD Studio sessions, regularly presenting in-flight work to the broader design team to socialize ideas, gather feedback, and strengthen the work through critique outside of my immediate project teams.
+
+I also looked for opportunities to contribute beyond my assigned work. Earlier in the year, another EXD designer reached out to the broader team for help with form design. Having recently completed significant form work on LEX, I volunteered to help and participated in a series of jam sessions where we worked through his designs together. I brought several ideas and interaction approaches to those sessions that were incorporated into his work and helped move the solution forward.
+
+Across these initiatives, I made meaningful progress against the objectives I set at the beginning of the year by delivering priority product work, contributing to product and future-state strategy, expanding my visibility within the design organization, and developing deeper experience with AI-supported design.
+
+
+HOW 
+
+Over the course of the year, I built on an established design practice by expanding my influence on product decisions, strengthening cross-functional partnerships, navigating ambiguity across fast-moving work, and integrating new tools and approaches into my process.
+
+**Strengthened design’s role in product decision-making**
+
+I worked to make design an active voice in shaping product direction rather than only a downstream execution partner. Across LEX and Interview Scheduler, I used design exploration to clarify ambiguous problems, surface tradeoffs, and help product and development make decisions before requirements became fixed.
+
+That meant speaking up when direction or requirements were unclear, challenging assumptions when a simpler approach was possible, and using interaction concepts to make alternatives tangible. This showed up in work such as the TPM redesign, where I proposed moving from a long single-page form to a multi-step experience, and in in-person interview room booking, where I advocated for a highly automated happy path to minimize additional work for recruiters.
+
+I focused on understanding the underlying user need rather than simply executing against an initial request, which helped position design as a more active partner in shaping product direction.
+
+**Built strong partnerships and adapted quickly as priorities shifted**
+
+A recurring theme across the year was the need to step into active projects at different stages, build context quickly, and take ownership as product and development priorities changed. I regularly entered work already in progress, quickly understanding what had been decided, identifying what still needed definition, and establishing the relationships necessary to keep work moving.
+
+I used formal reviews, working sessions, and 1:1 conversations to clarify requirements, understand feasibility, surface concerns, and align on delivery constraints. On Interview Scheduler, for example, this meant working closely with development on the interviewer-change experience to keep the solution achievable within a short turnaround, while also coordinating with another designer so the new functionality integrated naturally into the candidate profile side panel.
+
+I also worked closely with other designers when experiences crossed ownership boundaries, helping maintain consistency in terminology, interaction patterns, states, and logic across connected parts of the product. The interviewer availability work was a strong example of this, with the recruiter and interviewer experiences owned separately but designed to feel like one connected system.
+
+Peer feedback throughout the year reinforced this strength, particularly around ownership, collaboration, clarity, relationship-building, and my ability to work effectively through ambiguity.
+
+**Integrated AI into both my design workflow and product thinking**
+
+AI-enabled workflows were an important area of focus this year. I used AI tools throughout concepting and prototyping to accelerate strategic exploration, compare alternative interaction models, and turn ideas into tangible concepts more quickly.
+
+The LEX future-state work gave me a particularly strong opportunity to apply this. I used AI-assisted concepting and prototyping to explore different onboarding, intake, and assistant-interaction models, which allowed me to compare a broader range of approaches and bring ideas into team discussions earlier.
+
+Working on an AI-supported product experience also deepened my understanding of conversational design and the different roles an assistant may need to play throughout an experience. Thinking through how AI should respond differently when extracting information, recommending content, evaluating input, suggesting improvements, or generating content broadened both my design toolkit and my perspective on how AI can be integrated thoughtfully into product experiences.
+
+This helped me develop both a faster, more exploratory design process and a more developed point of view on designing for AI-enabled interactions.
+
+**Expanded my visibility and contribution within EXD**
+
+I maintained an active presence in weekly EXD Studio sessions, regularly presenting in-flight work to the broader design team to socialize ideas, invite critique, and strengthen the work outside of my immediate project teams.
+
+I also made myself available as a thought partner to designers across EXD, contributing to informal working sessions and sharing relevant experience when it could help unblock or improve the work of others. One example was a series of form-design jam sessions with another EXD designer, where I was able to bring recent experience from LEX into his work and contribute ideas that were incorporated into the solution.
+
+More broadly, I made my design thinking visible by sharing work early, asking for feedback, speaking up when direction was unclear, and participating actively in broader design conversations.
+
+These opportunities helped me contribute more visibly to the broader design organization and strengthen my presence as a design leader.
+
+**Raised the rigor and efficiency of my design practice**
+
+I continued to raise the standard of my Figma practice by being more deliberate about how I structure files, build reusable elements, prototype interactions, and prepare work for handoff. I placed greater emphasis on consistency, maintainability, and clarity, which helped me iterate faster and move from concept to polished work more efficiently.
+
+I also continued to make my developer handoff files more comprehensive, going beyond screen flows and annotations to document interaction behavior, states, dependencies, and the rationale behind key decisions. This was particularly important across the Interview Scheduler work, where requirements and states evolved quickly and the handoff needed to clearly communicate both intended behavior and the reasoning behind it.
+
+My goal has been to make these files useful not only as implementation tools, but also as durable records of the design thinking behind the experience. Together, these practices improved both the efficiency of my own process and the clarity of the work I deliver to others.
+
+Across the year, feedback from colleagues consistently reinforced themes of ownership, adaptability, collaboration, clarity, and willingness to share expertise. Together, these behaviors helped me expand my impact beyond the design work itself—through the way I influence direction, navigate ambiguity, and contribute to the quality of the broader team.
